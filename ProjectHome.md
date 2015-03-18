@@ -1,0 +1,1 @@
+**IMAPI.NET** is a C# wrapper for the Windows XP IMAPI interfaces allowing for any .NET application to write to a CD.
